@@ -1,5 +1,6 @@
 ---
 name: button-test
+---
 description: Interactive button test skill for UI prompt generation. Activated by saying "open button test".
 ---
 
